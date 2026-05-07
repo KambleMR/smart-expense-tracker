@@ -185,6 +185,6 @@ My License – Free for learning, educational use, and personal modifications.
 ## Contact
 
 **Ankit Kumar Gurjar**  
-📧 Email: ankdoi82@gmail.com  
-🔗 LinkedIn: [https://www.linkedin.com/in/ankit-kumar-gurjar](https://www.linkedin.com/in/ankit-kumar-gurjar)  
+📧 Email: mukeshofficial2003@gmail.com  
+🔗 LinkedIn: [[https://.linkedin.com/in/mukesh-kamble-6a5487252/](https://www.linkedin.com/in/mukesh-kamble-6a5487252/)] 
 📂 GitHub: [https://github.com/ankitdoi--coder](https://github.com/ankitdoi--coder)
