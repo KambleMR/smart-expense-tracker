@@ -184,7 +184,7 @@ My License – Free for learning, educational use, and personal modifications.
 
 ## Contact
 
-**Ankit Kumar Gurjar**  
+**Mukesh Kamble**  
 📧 Email: mukeshofficial2003@gmail.com  
 🔗 LinkedIn: [[https://.linkedin.com/in/mukesh-kamble-6a5487252/](https://www.linkedin.com/in/mukesh-kamble-6a5487252/)] 
 📂 GitHub: [[https://github.com/KambleMR](https://github.com/KambleMR)]
